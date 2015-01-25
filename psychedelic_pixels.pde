@@ -3,10 +3,6 @@
 // http://www.ecole-art-aix.fr/hypermedia
 // http://www.happycodefarm.net
 
-// cet exemple montre comment faire des cercles qui s'agrandissent à des vitesses différentes
-
-// créer quatre tailles de départ
-
 // on déclare un tableau contenant les periodes de clignotement de chaque pixels.
 float[][] periodes = new float[1440][900];
 
